@@ -120,7 +120,7 @@ class _UploadPageState extends State<UploadPage> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                   Text(
-                    'Cool Video Editor',
+                    'Upload Your Videos Here',
                     style: TextStyle(fontSize: 30),
                   ),
                   SizedBox(
@@ -142,7 +142,7 @@ class _UploadPageState extends State<UploadPage> {
                             size: 50.0,
                             semanticLabel: 'Upload Video1',
                           ),
-                          Text('Upload Video'),
+                          Text('Coach Video'),
                         ],
                       ),
                     ),
@@ -167,7 +167,7 @@ class _UploadPageState extends State<UploadPage> {
                             size: 50.0,
                             semanticLabel: 'Upload Image',
                           ),
-                          Text('Upload Video2'),
+                          Text('Student Video'),
                         ],
                       ),
                     ),
